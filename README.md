@@ -1,5 +1,4 @@
 # Project Title: Virtual Try-On
-(Proje Başlığı: Sanal Deneme)
 
 Author: Enes Can Erkan
 

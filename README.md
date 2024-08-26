@@ -33,7 +33,7 @@ Visualization: Visualizes the aligned face, original image, and the result.
 
 bash
 Kodu kopyala
-git clone https://github.com/yourusername/virtual-try-on.git
+git clone https://github.com/enescanerkan/virtual-try-on.git
 Install required packages:
 (Gerekli paketleri yükleyin:)
 
